@@ -11,7 +11,7 @@
   
 ## 02 Web Crawler
 - [Ex02-01](https://colab.research.google.com/drive/1Z_13jJIPNIpo_3xuaJYbm1D2hLbJmjW8?usp=classroom_web)
-- [Ex02-02]()
+- [Ex02-02](https://colab.research.google.com/drive/1TGO4wJ8hYh97mqrpl9PaMoLfSwzWzS0A)
 - [Ex02-03](https://colab.research.google.com/drive/1hfhJPxxvitPVdGATfegYBCJKhMFcCqXD?usp=classroom_web)
 - [Ex02-04]()
 - [Ex02-05](https://colab.research.google.com/drive/1Ut5GJnVqo6nWSmZHNaECEk50jOFAhb2j)
