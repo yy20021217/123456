@@ -15,3 +15,7 @@
 - [Ex02-03](https://colab.research.google.com/drive/1hfhJPxxvitPVdGATfegYBCJKhMFcCqXD?usp=classroom_web)
 - [Ex02-04](https://colab.research.google.com/drive/1v16kPKxo3mJNTU6sMzHOFgBJ23XSKdEm)
 - [Ex02-05](https://colab.research.google.com/drive/1Ut5GJnVqo6nWSmZHNaECEk50jOFAhb2j)
+
+
+- [Ex05-01](https://colab.research.google.com/drive/1974fg1hjtslB8CXJIgHma0u4aqPrbOMm)
+- [Ex05-02]()
