@@ -16,6 +16,16 @@
 - [Ex02-04](https://colab.research.google.com/drive/1v16kPKxo3mJNTU6sMzHOFgBJ23XSKdEm)
 - [Ex02-05](https://colab.research.google.com/drive/1Ut5GJnVqo6nWSmZHNaECEk50jOFAhb2j)
 
+## 03 Data Analysis
+- [Ex03-01](https://colab.research.google.com/drive/1--9TL2s2Qk2-gCGqQl7wK6HokomYaDKW?usp=classroom_web)
+- [Ex03-02](https://colab.research.google.com/drive/1PdvBl8oGhnaQrDId5voAnZ5ghnQ1QXMQ)
+- [Ex03-03](https://colab.research.google.com/drive/1he7lzAUOni8fLgvf5D0qQfAxST5kjqlz)
+- [Ex03-04](https://colab.research.google.com/drive/1c1FDtHnxzE1gJzVLmlHPcsoBemYheXXa)
+- [Ex03-05](https://colab.research.google.com/drive/1b9d-7ovG5-cKl2aQwpn0qTxxeE-jtGZw)
+- [Ex03-06](https://colab.research.google.com/drive/1Scx7pKnOub1zf-AVCDIlbnpgww77CWwL)
+- [Ex03-07]( https://colab.research.google.com/drive/1UaRe4ArqPWZMhEXC61Flr_vi4L6e4oA6)
 
+
+## 05 Web API
 - [Ex05-01](https://colab.research.google.com/drive/1974fg1hjtslB8CXJIgHma0u4aqPrbOMm)
 - [Ex05-02]()
