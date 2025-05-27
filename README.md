@@ -25,6 +25,11 @@
 - [Ex03-06](https://colab.research.google.com/drive/1Scx7pKnOub1zf-AVCDIlbnpgww77CWwL)
 - [Ex03-07]( https://colab.research.google.com/drive/1UaRe4ArqPWZMhEXC61Flr_vi4L6e4oA6)
 
+ ## 04 Machine Learning
+- [Ex04-01](https://colab.research.google.com/drive/1R7q6mn6eMP-obfre4w5jYBpv4pzhWYB2)
+- [Ex04-02]()
+- [Ex04-03]()
+
 
 ## 05 Web API
 - [Ex05-01](https://colab.research.google.com/drive/1974fg1hjtslB8CXJIgHma0u4aqPrbOMm)
