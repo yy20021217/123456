@@ -27,7 +27,7 @@
 
  ## 04 Machine Learning
 - [Ex04-01](https://colab.research.google.com/drive/1R7q6mn6eMP-obfre4w5jYBpv4pzhWYB2)
-- [Ex04-02]()
+- [Ex04-02](https://colab.research.google.com/drive/17jTuFOnUh0CcILnESxw04a5Zsw9VvT86)
 - [Ex04-03]()
 
 
