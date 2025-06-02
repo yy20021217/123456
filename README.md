@@ -15,6 +15,7 @@
 - [Ex02-03](https://colab.research.google.com/drive/1hfhJPxxvitPVdGATfegYBCJKhMFcCqXD?usp=classroom_web)
 - [Ex02-04](https://colab.research.google.com/drive/1v16kPKxo3mJNTU6sMzHOFgBJ23XSKdEm)
 - [Ex02-05](https://colab.research.google.com/drive/1Ut5GJnVqo6nWSmZHNaECEk50jOFAhb2j)
+- [hw2](https://colab.research.google.com/drive/1XorxoQyAtXRtJGn20diWvrXva7UXqy54)
 
 ## 03 Data Analysis
 - [Ex03-01](https://colab.research.google.com/drive/1--9TL2s2Qk2-gCGqQl7wK6HokomYaDKW?usp=classroom_web)
