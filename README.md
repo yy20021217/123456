@@ -36,4 +36,4 @@
 - [Ex05-01](https://colab.research.google.com/drive/1974fg1hjtslB8CXJIgHma0u4aqPrbOMm)
 - [Ex05-02](https://colab.research.google.com/drive/1sqi1NLNgiQZV-s0h6PCx6xaw6jOnfVa4?usp=classroom_web)
 - [Ex05-03](https://colab.research.google.com/drive/15Res3KwBXfQKL2pbzM87xB0BNn5MsHyV)
-- [Ex05-4](https://colab.research.google.com/drive/1vd3t2DuPOIXzLDBvGYIkCZr0LCOC0e3f)
+- [Ex05-04](https://colab.research.google.com/drive/1vd3t2DuPOIXzLDBvGYIkCZr0LCOC0e3f)
