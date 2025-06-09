@@ -37,3 +37,8 @@
 - [Ex05-02](https://colab.research.google.com/drive/1sqi1NLNgiQZV-s0h6PCx6xaw6jOnfVa4?usp=classroom_web)
 - [Ex05-03](https://colab.research.google.com/drive/15Res3KwBXfQKL2pbzM87xB0BNn5MsHyV)
 - [Ex05-04](https://colab.research.google.com/drive/1vd3t2DuPOIXzLDBvGYIkCZr0LCOC0e3f)
+
+## 作業
+- [hw2](https://colab.research.google.com/drive/1XorxoQyAtXRtJGn20diWvrXva7UXqy54?usp=classroom_web)
+- [hw3](https://colab.research.google.com/drive/1jzIwp2YJqqtn43vMOY0ISK5N4-nYVj1r?usp=classroom_web)
+- [期末報告](https://colab.research.google.com/drive/1xJo1Xg28UkWN-BPfqJ8K_AIzmDnUevtz)
