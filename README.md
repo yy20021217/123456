@@ -29,7 +29,11 @@
  ## 04 Machine Learning
 - [Ex04-01](https://colab.research.google.com/drive/1R7q6mn6eMP-obfre4w5jYBpv4pzhWYB2)
 - [Ex04-02](https://colab.research.google.com/drive/17jTuFOnUh0CcILnESxw04a5Zsw9VvT86)
-- [Ex04-03]()
+- [Ex04-03](https://colab.research.google.com/drive/1ZcRk05GEsqTJNKWVJ3k6SQlaWXlttXDq)
+- [Ex04-04](https://colab.research.google.com/drive/1xRNF5z_w-Q88y-I4szOH7kn5XMIRwXXv)
+- [Ex04-05](https://colab.research.google.com/drive/1yrab_4L97Zz9aOiWWsCXmCPC2FueiR1X)
+- [Ex04-06](https://colab.research.google.com/drive/15tKkw4IEtqYzuJb2bBMdBP5B4ikgrpnl)
+
 
 
 ## 05 Web API
@@ -37,6 +41,7 @@
 - [Ex05-02](https://colab.research.google.com/drive/1sqi1NLNgiQZV-s0h6PCx6xaw6jOnfVa4?usp=classroom_web)
 - [Ex05-03](https://colab.research.google.com/drive/15Res3KwBXfQKL2pbzM87xB0BNn5MsHyV)
 - [Ex05-04](https://colab.research.google.com/drive/1vd3t2DuPOIXzLDBvGYIkCZr0LCOC0e3f)
+  
 
 ## 作業
 - [hw2](https://colab.research.google.com/drive/1XorxoQyAtXRtJGn20diWvrXva7UXqy54?usp=classroom_web)
